@@ -6,8 +6,8 @@
 445  # AD Mgmt
 88 # AD Mgmt
 389 # AD Mgmt
-135-139 # AD Mgmt
+135:139 # AD Mgmt
 3268 # AD Mgmt
 3269 # AD Mgmt
-49152-65535 # AD Mgmt
+49152:65535 # AD Mgmt
 
