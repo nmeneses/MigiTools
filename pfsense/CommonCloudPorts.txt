@@ -1,3 +1,4 @@
+22 # SSH
 80 # Allow HTTP
 443 # Allow HTTPS
 53 # Allow DNS
