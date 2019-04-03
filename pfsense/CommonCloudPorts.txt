@@ -1,7 +1,13 @@
-445
-88
-389
-135-139
-3268
-3269
-49152-65535
+80 # Allow HTTP
+443 # Allow HTTPS
+53 # Allow DNS
+3389 # Allow RDP
+
+445  # AD Mgmt
+88 # AD Mgmt
+389 # AD Mgmt
+135-139 # AD Mgmt
+3268 # AD Mgmt
+3269 # AD Mgmt
+49152-65535 # AD Mgmt
+
