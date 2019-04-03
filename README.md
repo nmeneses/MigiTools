@@ -1,2 +1,1 @@
-# blocklist
-DNS Blocklist
+# MigiTools
