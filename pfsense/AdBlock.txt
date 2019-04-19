@@ -1,6 +1,6 @@
 # Custom Migi Block List
-# Date: 02-07-19
-# Number of unique domains: 6
+# Updated: 04-19-2019
+# Number of unique domains: ?
 #=====================================
 
 0.0.0.0 searchdimension.com
