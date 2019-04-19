@@ -1,0 +1,16 @@
+# Custom Migi Block List
+# Date: 02-07-19
+# Number of unique domains: 6
+#=====================================
+
+0.0.0.0 searchdimension.com
+0.0.0.0 lp.searchdimension.com
+0.0.0.0 sportsaddict.thewhizproducts.com
+0.0.0.0 searchdims.network
+0.0.0.0 get.trustnav.com
+#0.0.0.0 edgecast-test.ora.tv # ora.tv (9gag Ad)
+#0.0.0.0 www.ora.tv # ora.tv (9gag Ad)
+#0.0.0.0 vidthm.ora.tv # ora.tv (9gag Ad)
+
+0.0.0.0 c-3sux78kvnkay76x24zvix2emuumrkyetjoigzoutx2eius.g00.cnet.com # CNet.com
+0.0.0.0 c-3sux78kvnkay76x24y6x2e8sjtx2etkz.g00.cnet.com # CNet.com
