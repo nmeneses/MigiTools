@@ -3,6 +3,7 @@
 443 # Allow HTTPS
 53 # Allow DNS
 3389 # Allow RDP
+8181 # Tautulli
 
 445  # AD Mgmt
 88 # AD Mgmt
@@ -11,4 +12,3 @@
 3268 # AD Mgmt
 3269 # AD Mgmt
 49152:65535 # AD Mgmt
-
