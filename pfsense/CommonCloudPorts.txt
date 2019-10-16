@@ -12,3 +12,11 @@
 3268 # AD Mgmt
 3269 # AD Mgmt
 49152:65535 # AD Mgmt
+
+3000:3020 # NodeJS Apps
+3224 # NodeJS Home App
+8080 # Alt HTTP
+8443 # Alt HTTPS
+8086 # InfluxDB
+1688 # KMS
+8006 # Proxmox
