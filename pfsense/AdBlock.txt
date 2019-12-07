@@ -14,3 +14,5 @@
 
 0.0.0.0 c-3sux78kvnkay76x24zvix2emuumrkyetjoigzoutx2eius.g00.cnet.com # CNet.com
 0.0.0.0 c-3sux78kvnkay76x24y6x2e8sjtx2etkz.g00.cnet.com # CNet.com
+
+0.0.0.0 spclient.wg.spotify.com # Spotify Ads
