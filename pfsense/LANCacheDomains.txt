@@ -1,1 +1,12 @@
-assets1.xboxlive.com
+# Custom LAN Cache Domains
+# Updated: 12-12-2019
+#=====================================
+
+10.0.2.26 assets1.xboxlive.com
+10.0.2.26 assets2.xboxlive.com
+10.0.2.26 dlassets.xboxlive.com
+10.0.2.26 xboxone.loris.llnwd.net
+10.0.2.26 *.xboxone.loris.llnwd.net
+10.0.2.26 xboxone.vo.llnwd.net
+10.0.2.26 xbox-mbr.xboxlive.com
+10.0.2.26 assets1.xboxlive.com.nsatc.net
