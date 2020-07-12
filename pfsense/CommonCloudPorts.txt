@@ -1,4 +1,4 @@
-22 # SSH
-53 # Allow DNS
-80:87 # Allow HTTP
+22
+53
+80:87
 
