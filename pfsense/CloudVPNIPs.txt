@@ -1,2 +1,0 @@
-#IPAddressesWhichWillBeAccessedThroughTheCloudVPN
-200.29.32.160 # 5b799b7429657.streamlock.net
